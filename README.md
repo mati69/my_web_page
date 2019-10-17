@@ -1,6 +1,6 @@
 # my_web_page
 
-## https://mateusz-szul.pl/
+## https://szulmateusz.pl
 
 This is my website with my skills, projects and contact to me.
 I invite you to visit her and contact me for cooperation.
